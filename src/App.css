@@ -27,7 +27,6 @@ body{
   margin-left: 10px;
 }
 
-
 .App {
   text-align: center;
   margin-left: -5%;
@@ -209,6 +208,18 @@ height: 30em;
 /* SMARTPHONES PORTRAIT */
 @media only screen and (min-width: 320px) and (max-width : 480px){
 
+  .GithubLogo{
+    width: 25px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .LinkedInLogo{
+    width: 20px;
+    float: left;
+    margin-top: -22px;
+  }
+
   body{
     font-size: 6px;
   }
@@ -249,7 +260,7 @@ nav{
   top:2em;
   align-items: center;
   color: white;
-  margin-left: 3%;
+  margin-left: 2%;
 }
 .work .work-content{
   display: grid;
