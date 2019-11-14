@@ -4,7 +4,7 @@ export default
         //Change The Website Template
         name :'Mariana Rascon Montaño',
         headerTagline: [//Line 1 For Header
-                        'Hi, I am Mariana Rascon Montaño',
+                        'Hi, I am Mariana Rascon',
                         //Line 2 For Header
                         'Front-End Developer ',
                         //Line 3 For Header
@@ -16,7 +16,7 @@ export default
         abouttext: "My  name is Mariana. I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I am looking forward to get involved in new projects and continue learning.",
         aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/port1.jpg?alt=media&token=bf9f5652-de52-4383-90a1-f9fe9e902b1e',
        //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:true,//true or false (Change Here)
+       ShowAboutImage:false,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
@@ -32,16 +32,16 @@ export default
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'Collector´s notebook',
-                service: 'React Website Development',
-                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/labnotes.png?alt=media&token=b8f56740-32ed-451e-a2b7-33c49cffbe9b",
+                service: 'React web development',
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/lab.png?alt=media&token=f4b9242f-e815-4a70-995f-e827d02fc677",
                 url: 'https://github.com/Nienorloth/Cuaderno-de-colecta',
                 github: 'https://github.com/Nienorloth/GDL003-data-lovers'
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
                 title: 'Social network: School comunity',
-                service: 'Vanilla JS Web App',
-                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/logo.gif?alt=media&token=fc2e78b3-8642-43d3-9b00-c373999473c3",
+                service: 'Vanilla JS web development',
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/com.png?alt=media&token=fea84b84-9803-4895-a7f6-55f04e5289ea",
                 url: 'https://nienorloth.github.io/GDL003-social-network/src/',
                 github: 'https://github.com/Nienorloth/GDL003-social-network'
             },

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import data from '../yourdata';
+import github from './../img/github.png';
+import linkedin from './../img/link.png';
 
 class Contact extends Component {
     state = {  }
@@ -13,9 +15,10 @@ class Contact extends Component {
         <div className='contact-content'>
                     <a href={`mailto:${data.contactEmail}`} className='email'>{data.contactEmail}</a>
                 <ul>
-                    {data.social.map((link,index)=>(
-                        <li key={index}><a className="toWhite" target='_blank' rel="noopener noreferrer" href={link.url}>{link.name}</a></li>
-                    ))}   
+                    
+                        <li><a className="toWhite" target='_blank' rel="noopener noreferrer" href='https://github.com/Nienorloth'><img className="GithubLogo" src={github}/></a></li>
+                        <li><a className="toWhite" target='_blank' rel="noopener noreferrer" href='https://www.linkedin.com/in/mariana-rascon'><img className="LinkedInLogo" src={linkedin}/></a></li>
+
                 </ul>
         </div>
         </Fade>

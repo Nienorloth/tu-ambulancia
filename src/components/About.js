@@ -13,6 +13,7 @@ class About extends Component {
                     <p>{data.abouttext}</p>
             </Fade>
             </div>
+            {/*eslint-disable-next-line*/}
             {data.ShowAboutImage ? <img src={data.aboutImage} className="AboutImg" alt='about image'></img> : null}
             
 

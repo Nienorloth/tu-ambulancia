@@ -3,10 +3,11 @@
 
 body{
   font-size: 16px;
+  /*background: black;*/
   font-family: 'Open Sans', sans-serif;
   overflow-x: hidden;
   z-index: 1;
-  background-image: url("./img/forest.jpg");
+  background-image: url("./img/moon2.jpg");
   background-size: 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -17,12 +18,23 @@ body{
   color: white;
 }
 
+.GithubLogo{
+  width: 45px;
+}
+
+.LinkedInLogo{
+  width: 40px;
+  margin-left: 10px;
+}
+
+
 .App {
   text-align: center;
+  margin-left: -5%;
 }
 
 .contact{
-  margin-bottom: 25%;
+  margin-bottom: 5%;
 }
 
 .App-header {
@@ -31,7 +43,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: black;
+  color: white;
   top:4em;
 }
 
@@ -51,7 +63,8 @@ nav{
   position:fixed;
   left:60em;
   top:6em;
-z-index: 100;
+  z-index: 100;
+  background-color: rgba(20, 20, 20, 0.6);
 }
 nav li{
   display: inline-block;
@@ -60,9 +73,9 @@ nav li{
 }
 nav li .link{
   text-decoration: none;
-  color: black;
+  color: white;
   padding:1em;
-  opacity: 0.5;
+  opacity: 1;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -70,15 +83,15 @@ nav li .link{
   -o-transition: all 0.3s ease-in-out;
 }
 li .link:hover{
-  opacity: 1;
+  opacity: .5;
 }
 .active{
-  color:black;
+  color:white;
   opacity: 1;
 }
 
 .header-title button{
-  background: black;
+  background: white;
   border: 0px;
   padding: 1em 3em;
   transition: all 0.2s ease-out;
@@ -105,6 +118,7 @@ li .link:hover{
 .about{
   display: flex;
   flex-direction: row;
+  color: white
 }
 .about-content{
   position: relative;
@@ -135,13 +149,16 @@ li .link:hover{
   font-family: 'Montserrat', sans-serif;
   font-size: 5em;
   text-align: left;
+  color: white;
 }
 .work .work-content{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 2em;
 }
-
+.project{
+  color: white; 
+}
 .project img{
 width: 30em;  
 height: 30em;
@@ -151,6 +168,7 @@ height: 30em;
   top:20em;
   left:15em;
   text-align: left;
+  color: white;
 }
 .contact h1{
     font-family: 'Montserrat', sans-serif;
@@ -158,12 +176,12 @@ height: 30em;
   text-align: left;
 }
 .amazing-color{
-  color:#9352ae;
+  color:white;
   opacity: 1;
 }
 
 .contact .email{
-  color:black;
+  color:white;
   font-size: 2em;
 }
 .contact li{
@@ -175,7 +193,7 @@ height: 30em;
 }
 .contact li a{
   text-decoration: none;
-  color:black;
+  color:white;
 }
 .footer{
   position: relative;
@@ -184,25 +202,22 @@ height: 30em;
 }
 .footer a{
   text-decoration: none;
-  color:#2c59fb;
+  color:white;
 }
 
 
 /* SMARTPHONES PORTRAIT */
-@media only screen and (min-device-width: 320px) and (max-device-width : 480px){
+@media only screen and (min-width: 320px) and (max-width : 480px){
 
   body{
     font-size: 6px;
   }
   header h1{
-font-size: 5em;  
+font-size: 3em;  
 padding: 1em;
 margin-right: 0em;
 }
 
-.heading-background{
-  display: none;
-}
 nav{
   display: none;
 }
@@ -221,6 +236,7 @@ nav{
 }
 .about-content{
   left:2em;
+  margin-left: 9%;
 }
 .about-content p{
   font-size: 3.5em;
@@ -231,12 +247,15 @@ nav{
 .work{
   left:2em;
   top:2em;
-  align-items: flex-start;
+  align-items: center;
+  color: white;
+  margin-left: 3%;
 }
 .work .work-content{
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 5em;
+  color: white;
 }
 .project img{
 width: 45em;  
@@ -245,7 +264,6 @@ height: 45em;
 
 .contact{
   top:15em;
-  left:2em;
 }
 .contact h1{
   font-size: 4em;
@@ -271,7 +289,7 @@ height: 45em;
 }
 
 /* iPads (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
 
 
 body{
