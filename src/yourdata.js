@@ -42,7 +42,7 @@ export default
                 title: 'Social network: School comunity',
                 service: 'Vanilla JS web development',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/com.png?alt=media&token=fea84b84-9803-4895-a7f6-55f04e5289ea",
-                url: 'https://nienorloth.github.io/GDL003-social-network/src/',
+                url: 'https://denisseperalta.github.io/GDL003-social-network/src/',
                 github: 'https://github.com/Nienorloth/GDL003-social-network'
             },
             {
