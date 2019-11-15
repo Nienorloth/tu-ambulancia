@@ -14,9 +14,9 @@ export default
         contactEmail:'nienorloth@gmail.com',
         // Add Your About Text Here
         abouttext: "My  name is Mariana. I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I am looking forward to get involved in new projects and continue learning.",
-        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/port1.jpg?alt=media&token=bf9f5652-de52-4383-90a1-f9fe9e902b1e',
+        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Mar.jpg?alt=media&token=3b4d265f-6d66-4fec-98df-b6f70983abbb',
        //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:false,//true or false (Change Here)
+       ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
