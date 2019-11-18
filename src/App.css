@@ -391,12 +391,12 @@ body{
   }
   header h1{
     font-size: 2em;
-    margin-right: 15em;
+    margin-right: 25em;
   }
 
 
   nav{
-  left:60em;
+  left:30em;
   top:12em;
   z-index: 100;
 }
