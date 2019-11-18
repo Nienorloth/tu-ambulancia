@@ -3,7 +3,6 @@
 
 body{
   font-size: 16px;
-  /*background: black;*/
   font-family: 'Open Sans', sans-serif;
   overflow-x: hidden;
   z-index: 1;
@@ -115,6 +114,7 @@ li .link:hover{
   font-size: 3em;
   text-align: left;
   top:2em;
+  margin-left: 15%;
 }
 .about{
   display: flex;
@@ -207,26 +207,29 @@ height: 30em;
 }
 
 
-/* SMARTPHONES PORTRAIT */
+/* Mobile media queries */
 @media only screen and (min-width: 320px) and (max-width : 767px){
 
   .GithubLogo{
     width: 25px;
     float: left;
-    margin-right: 10px;
   }
   
   .LinkedInLogo{
     width: 20px;
     float: left;
     margin-top: -22px;
+    margin-left: 60%;
   }
 
   body{
-    font-size: 6px;
+    font-size: 4px;
+    text-align: center;
+    box-sizing: content-box;
+    width: 75%;
   }
   header h1{
-font-size: 3em;  
+font-size: 4em;  
 padding: 1em;
 margin-right: 0em;
 }
@@ -235,26 +238,26 @@ nav{
   display: none;
 }
 .header-title{
-  font-size: 3em;
+  font-size: 3.5em;
   text-align: left;
   top:1em;
   left:1em;
 }
 .about{position: relative;
       display: flex;
-      top:-30em;
+      top:-80em;
 }
 .about img{
   display: none
 }
 .about-content{
-  left:2em;
-  margin-left: 9%;
+  align-text: center;
+  box-sizing: content-box;
 }
 .about-content p{
   font-size: 3.5em;
   text-align: left;
-  width: 300px;
+  width: 100%;
 }
 
 .work{
@@ -262,7 +265,9 @@ nav{
   top:2em;
   align-items: center;
   color: white;
-  margin-left: 2%;
+  margin-left: 35%;
+  top: -50em;
+
 }
 .work .work-content{
   display: grid;
@@ -277,14 +282,18 @@ height: 45em;
 
 .contact{
   top:15em;
-}
+  box-sizing: content-box;
+  width: 60%;
+  text-align: center;
+  top: -20em;
+  }
 .contact h1{
   font-size: 4em;
 }
 .contact .email{
   font-size: 3.5em;
+  margin-left: -8%;
 }
-
 .contact li{
   display: block;
   padding: 2em;
@@ -292,16 +301,9 @@ height: 45em;
 .contact li a{
   font-size: 2.5em;
 }
-.footer{
-  top:4em;
-  padding: 1em;
-  font-size: 2em;
 }
 
-
-}
-
-/* iPads (portrait and landscape) ----------- */
+/* Tablet and desktop media queries 
 @media only screen and (min-width : 768px) and  {
 
 
