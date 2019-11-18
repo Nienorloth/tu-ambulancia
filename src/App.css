@@ -301,7 +301,7 @@ height: 45em;
 
 }
 
-/* iPads*/
+/* iPads and desktop*/
 @media only screen and (min-width : 1025px) {
 
 
@@ -325,7 +325,8 @@ nav{
 }
 .about{position: relative;
       display: flex;
-      top:-10em;
+      top:-18em;
+      margin-left: 15%;
 }
 .about img{
   display: none
@@ -337,37 +338,45 @@ nav{
   font-size: 3.5em;
   text-align: left;
   width: 700px;
+  margin-left: 15%;
 }
 
 .work{
   left:6em;
   top:4em;
   align-items: flex-start;
+  margin-left: 15%;
 }
 .work .work-content{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 5em;
+  margin-left: 15%;
 }
 .project img{
 width: 30em;  
 height: 30em;
+margin-left: 15%;
 }
 
 .contact{
   top:15em;
   left:6em;
+  margin-left: 15%;
 }
 .contact h1{
   font-size: 4em;
+  margin-left: 15%;
 }
 .contact .email{
   font-size: 3.5em;
+  margin-left: 15%;
 }
 
 .contact li{
   display: block;
   padding: 2em;
+  margin-left: 15%;
 }
 .contact li a{
   font-size: 2.5em;
@@ -376,6 +385,7 @@ height: 30em;
   top:4em;
   padding: 1em;
   font-size: 2em;
+  margin-left: 15%;
 }
 
 }
