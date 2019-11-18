@@ -302,7 +302,7 @@ height: 45em;
 }
 
 /* iPads (portrait and landscape) ----------- */
-@media only screen and (min-width : 768px) and (max-width : 1024px) {
+@media only screen and (min-width : 768px) and  {
 
 
 body{
@@ -380,9 +380,9 @@ height: 30em;
 
 }
 
-/* Large screens ----------- */
-@media only screen  and (min-width : 1824px) {
-/* Styles */
+/* Large screens ----------- 
+@media only screen  and (min-width : 1441px) {
+/* Styles 
 
 
 
@@ -464,4 +464,4 @@ height: 32em;
 }
 
 
-}
+}*/
