@@ -208,7 +208,7 @@ height: 30em;
 
 
 /* SMARTPHONE MEDIA QUERIES*/
-@media only screen and (min-width: 320px) and (max-width : 480px){
+@media only screen and (min-width: 320px) and (max-width : 1024px){
 
   .GithubLogo{
     width: 25px;
@@ -302,7 +302,7 @@ height: 45em;
 }
 
 /* iPads*/
-@media only screen and (min-width : 481px) and (max-width : 1024px) {
+@media only screen and (min-width : 1025px) {
 
 
 body{
@@ -380,9 +380,9 @@ height: 30em;
 
 }
 
-/* Large screens ----------- */
+/* Large screens ----------- 
 @media only screen  and (min-width : 1025px) {
-/* Styles */
+/* Styles 
 
 
 
@@ -460,5 +460,4 @@ height: 32em;
   font-size: 4em;
 }
 
-
-}
+}*/
