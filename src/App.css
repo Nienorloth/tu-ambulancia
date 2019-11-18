@@ -392,7 +392,8 @@ body{
   }
   header h1{
     font-size: 2em;
-    margin-right: 70%;
+    margin-left: 10%;
+    width: 60%;
     
   }
 
@@ -424,7 +425,7 @@ nav li{
   width: 25em;
 }
 .about img{
-  margin-left: 1em;
+  margin-left: 8em;
 }
 
 .work{
