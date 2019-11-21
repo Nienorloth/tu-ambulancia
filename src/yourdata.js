@@ -35,15 +35,15 @@ export default
                 service: 'React JS, CSS, Reactstrap, Firebase',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/lab.png?alt=media&token=f4b9242f-e815-4a70-995f-e827d02fc677",
                 url: 'https://nienorloth.github.io/Cuaderno-de-colecta/',
-                github: 'https://github.com/Nienorloth/GDL003-data-lovers'
+                github: 'https://github.com/Nienorloth/GDL003-data-lovers/'
             },
             { 
                 id: 3,
                 title: 'Social network: School comunity',
-                service: 'Javascript, HTML, CSS, Firebase',
+                service: 'Javascript, HTML, CSS, Firebase (Team project)',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/com.png?alt=media&token=fea84b84-9803-4895-a7f6-55f04e5289ea",
                 url: 'https://denisseperalta.github.io/GDL003-social-network/src/',
-                github: 'https://github.com/Nienorloth/GDL003-social-network'
+                github: 'https://github.com/Nienorloth/GDL003-social-network/'
             },
             {
                 id: 4,
@@ -51,15 +51,25 @@ export default
                 service: 'Angular, Angular Material, Firebase',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a",
                 url: 'https://imparatus-bf272.firebaseapp.com/',
-                github: 'https://github.com/Nienorloth/GDL003-personal-project'
+                github: 'https://github.com/Nienorloth/GDL003-personal-project/'
            },
            {
                 id: 5,
                 title: 'Imparatus e-commerce/Back-end',
                 service: 'Express js, Mongoose js, Mongo DB, Dotenv, Heroku',
-                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a           ",
-                url: 'https://github.com/Nienorloth/GDL003-personal-project-back-end'
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a",
+                url: 'https://imparatus-bf272.firebaseapp.com/',
+                github: 'https://github.com/Nienorloth/GDL003-personal-project-back-end'
+            },
+            {
+                id: 6,
+                title: 'Burger Kawaii/Back-end',
+                service: 'Express js, Mongoose js, Mongo DB, Dotenv, Heroku (Team project)',
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/burger%20queen.png?alt=media&token=f5ccd5c4-752b-4797-b9fb-15afda27b844",
+                url: 'https://paulinamontoya.github.io/burger-kawaii/',
+                github: 'https://github.com/Nienorloth/GDL003-Burger-Queen-Back-End'
             }
+
                 
         ],
         social: [

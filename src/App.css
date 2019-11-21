@@ -211,6 +211,17 @@ filter: grayscale(85%);
   text-decoration: none;
   color:white;
 }
+.project a {
+  color: white;
+  text-decoration: none;
+}
+.gitLink:hover {
+  transform: scale(1.1);
+  opacity: .5;
+}
+.projectInfo{
+  background-color: rgba(20, 20, 20, 0.6);
+}
 
 
 /* Mobile media queries */
