@@ -262,10 +262,10 @@ nav{
 }
 .about{position: relative;
       display: flex;
-      top:-80em;
+      top:-100em;
 }
 .about img{
-  display: none
+ display: none;
 }
 .about-content{
   align-text: center;
@@ -283,7 +283,7 @@ nav{
   align-items: center;
   color: white;
   margin-left: 35%;
-  top: -50em;
+  top: -90em;
 
 }
 .work .work-content{
@@ -303,7 +303,7 @@ height: 45em;
   box-sizing: content-box;
   width: 60%;
   text-align: center;
-  top: -20em;
+  top: -60em;
   }
 .contact h1{
   font-size: 4em;
@@ -319,6 +319,10 @@ height: 45em;
 .contact li a{
   font-size: 2.5em;
 }
+.project img{
+  filter: none;
+  }
+  
 }
 
 
