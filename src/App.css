@@ -123,7 +123,7 @@ li .link:hover{
 }
 .about-content{
   position: relative;
-  left:15em;
+  left:10em;
 }
 .about-content h1{
   font-family: 'Montserrat', sans-serif;
@@ -153,7 +153,7 @@ li .link:hover{
   text-align: left;
   color: white;
 }
-.work .work-content{
+.work-content{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 2em;
@@ -164,6 +164,11 @@ li .link:hover{
 .project img{
 width: 30em;  
 height: 30em;
+filter: grayscale(85%);
+}
+.project img:hover{
+  filter: none;
+  box-shadow: 4px 4px 10px 2px white;
 }
 .contact{
   position: relative;
@@ -275,6 +280,7 @@ nav{
   grid-template-columns: 1fr;
   grid-gap: 5em;
   color: white;
+  filter: none;
 }
 .project img{
 width: 45em;  

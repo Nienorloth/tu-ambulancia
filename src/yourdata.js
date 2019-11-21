@@ -20,9 +20,9 @@ export default
        // Change Projects Here 
        projects:[
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
+            id: 1,
             title:'League of Legends Champion Archive', //Project Title - Add Your Project Title Here
-             service:'Vanilla JS web development', // Add Your Service Type Here
+             service:'Javascript, HTML, CSS', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
              imageSrc:"https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/lol.png?alt=media&token=a3f2cd5b-d581-47b6-918c-f105120db462",
              //Project URL - Add Your Project Url Here
@@ -30,41 +30,37 @@ export default
              github: 'https://github.com/Nienorloth/GDL003-data-lovers'
             },
             {
-                id: 2,//DO NOT CHANGE THIS (Please)😅
+                id: 2,
                 title: 'Collector´s notebook',
-                service: 'React web development',
+                service: 'React JS, CSS, Reactstrap, Firebase',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/lab.png?alt=media&token=f4b9242f-e815-4a70-995f-e827d02fc677",
-                url: 'https://github.com/Nienorloth/Cuaderno-de-colecta',
+                url: 'https://nienorloth.github.io/Cuaderno-de-colecta/',
                 github: 'https://github.com/Nienorloth/GDL003-data-lovers'
             },
             { 
-                id: 3,//DO NOT CHANGE THIS (Please)😅
+                id: 3,
                 title: 'Social network: School comunity',
-                service: 'Vanilla JS web development',
+                service: 'Javascript, HTML, CSS, Firebase',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/com.png?alt=media&token=fea84b84-9803-4895-a7f6-55f04e5289ea",
                 url: 'https://denisseperalta.github.io/GDL003-social-network/src/',
                 github: 'https://github.com/Nienorloth/GDL003-social-network'
             },
             {
-                id: 4,//DO NOT CHANGE THIS (Please)😅
+                id: 4,
                 title: 'Imparatus e-commerce',
-                service: 'Angular web development',
+                service: 'Angular, Angular Material, Firebase',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a",
                 url: 'https://imparatus-bf272.firebaseapp.com/',
                 github: 'https://github.com/Nienorloth/GDL003-personal-project'
-           }
-
-                    /*
-
-                    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                ,{
+           },
+           {
                 id: 5,
-                title: 'Project Five',
-                service: 'Something Amazing',
-                imageSrc: "",
-                url: ''
+                title: 'Imparatus e-commerce/Back-end',
+                service: 'Express js, Mongoose js, Mongo DB, Dotenv, Heroku',
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a           ",
+                url: 'https://github.com/Nienorloth/GDL003-personal-project-back-end'
             }
-                */
+                
         ],
         social: [
             // Add Or Remove The Link Accordingly
