@@ -5,14 +5,14 @@ export default
         headerTagline: [
                         'Hi, I am Mariana Rascon',
                        
-                        'Front-End Developer ',
+                        'Web Developer ',
                        
                         
     ],
         //Contact Email
         contactEmail:'nienorloth@gmail.com',
        
-        abouttext: "My  name is Mariana. I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I am looking forward to get involved in new projects and continue learning.",
+        abouttext: "My  name is Mariana. I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I have a bachelor's degree in Biology; life and evolution are still a subject of great interest for me. I am looking forward to get involved in new projects and continue learning.",
         aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Mar.jpg?alt=media&token=3b4d265f-6d66-4fec-98df-b6f70983abbb',
        //Show or hide image
        ShowAboutImage:true,
@@ -55,7 +55,7 @@ export default
            {
                 id: 5,
                 title: 'Imparatus e-commerce/Back-end',
-                service: 'Express js, Mongoose js, Mongo DB, Dotenv, Heroku',
+                service: 'Node js, Express, Mongoose, Mongo DB, Heroku',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/imp.png?alt=media&token=2f636f6b-83d5-4ca2-9a77-96a9867fdc3a",
                 url: 'https://imparatus-bf272.firebaseapp.com/',
                 github: 'https://github.com/Nienorloth/GDL003-personal-project-back-end'
@@ -63,7 +63,7 @@ export default
             {
                 id: 6,
                 title: 'Burger Kawaii/Back-end',
-                service: 'Express js, Mongoose js, Mongo DB, Dotenv, Heroku (Team project)',
+                service: 'Node js, Express, Mongoose, Mongo DB, Heroku (Team project)',
                 imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/burger%20queen.png?alt=media&token=f5ccd5c4-752b-4797-b9fb-15afda27b844",
                 url: 'https://paulinamontoya.github.io/burger-kawaii/',
                 github: 'https://github.com/Nienorloth/GDL003-Burger-Queen-Back-End'
