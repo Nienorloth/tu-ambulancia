@@ -40,7 +40,7 @@ export default
                 id: 3,
                 title: 'Social network: School comunity',
                 service: 'Javascript, HTML, CSS, Firebase (Team project)',
-                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/com.png?alt=media&token=fea84b84-9803-4895-a7f6-55f04e5289ea",
+                imageSrc: "https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/red%20social.png?alt=media&token=aef25454-ba67-4939-903f-8111aed3cab1",
                 url: 'https://denisseperalta.github.io/GDL003-social-network/src/',
                 github: 'https://github.com/Nienorloth/GDL003-social-network/'
             },
