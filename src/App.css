@@ -18,16 +18,17 @@ body{
 .toWhite{
   color: white;
 }
-
 .GithubLogo{
   width: 45px;
 }
-
 .LinkedInLogo{
   width: 40px;
   margin-left: 10px;
 }
-
+.GithubLogo:hover,
+.LinkedInLogo:hover {
+  transform: scale(1.1);
+}
 .App {
   text-align: center;
   margin-left: -5%;
