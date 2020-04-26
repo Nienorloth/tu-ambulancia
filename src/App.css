@@ -13,7 +13,7 @@ body{
   background-size: cover;
 }
 .AboutImg{
-  width: 550px;
+  width: 500px;
 }
 .toWhite{
   color: white;
@@ -31,7 +31,7 @@ body{
 }
 .App {
   text-align: center;
-  margin-left: -5%;
+  margin-left: -11%;
 }
 
 .contact{
@@ -62,13 +62,13 @@ margin-right: 50em;
 }
 nav{
   position:fixed;
-  left:60em;
+  left:47em;
   top:6em;
   z-index: 100;
   background-color: rgba(20, 20, 20, 0.6);
 }
 nav li{
-  display: inline-block;
+  display: inline;
   cursor: pointer;
   font-size: 1.5em;
 }
@@ -124,7 +124,7 @@ li .link:hover{
 }
 .about-content{
   position: relative;
-  left:10em;
+  left:12em;
 }
 .about-content h1{
   font-family: 'Montserrat', sans-serif;
@@ -269,6 +269,7 @@ nav{
 .about{position: relative;
       display: flex;
       top:-100em;
+      right: -10em;
 }
 .about img{
  display: none;

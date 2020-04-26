@@ -3,7 +3,7 @@ export default
        
         name :'Mariana Rascon Montaño',
         headerTagline: [
-                        'Hi, I am Mariana Rascon',
+                        'Hi, I am Mariana',
                        
                         'Web Developer ',
                        
@@ -12,7 +12,7 @@ export default
         //Contact Email
         contactEmail:'nienorloth@gmail.com',
        
-        abouttext: "My  name is Mariana. I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I have a bachelor's degree in Biology; life and evolution are still a subject of great interest to me. I am looking forward to get involved in new projects and continue learning.",
+        abouttext: "I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I have a bachelor's degree in Biology; life and evolution are still a subject of great interest to me. I am looking forward to get involved in new projects and continue learning.",
         aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Mar.jpg?alt=media&token=3b4d265f-6d66-4fec-98df-b6f70983abbb',
        //Show or hide image
        ShowAboutImage:true,
