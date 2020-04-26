@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 import data from '../yourdata';
 import github from './../img/github.png';
 import linkedin from './../img/link.png';
-import CV from './../img/Mariana Rascón Montaño.pdf';
+import CV from './../img/Resume Mariana Rascón Montaño.pdf';
 
 class Contact extends Component {
     state = {  }
