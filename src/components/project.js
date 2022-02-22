@@ -14,7 +14,7 @@ class Project extends Component {
             <h1>{this.props.title}</h1>
             <span>{this.props.service}</span>
             <a href={this.props.github} target="_blank">
-            <p className="gitLink">Github Repository</p>
+            <p className="gitLink">Abre el prototipo interactivo!!</p>
             </a>
           </div>
         </div> 

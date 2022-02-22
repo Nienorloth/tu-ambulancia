@@ -17,7 +17,7 @@ class Navbar extends Component {
                     offset={-70}
                     duration={500}
                     onClick={this.scrollToTop}
-                >Home</Link></li>
+                >Inicio</Link></li>
                 <li><Link
                     className='link'
                     activeClass="active"
@@ -26,7 +26,7 @@ class Navbar extends Component {
                     smooth={true}
                     offset={-70}
                     duration={500}
-                >About</Link></li>
+                >Info</Link></li>
                 <li><Link
                     className='link'
                     activeClass="active"
@@ -35,7 +35,7 @@ class Navbar extends Component {
                     smooth={true}
                     offset={-70}
                     duration={500}
-                >Projects</Link></li>
+                >Prototipo</Link></li>
                 <li><Link
                     className='link'
                     activeClass="active"
@@ -44,7 +44,7 @@ class Navbar extends Component {
                     smooth={true}
                     offset={-70}
                     duration={500}
-                >Contact</Link></li>
+                >Contacto</Link></li>
             </ul>
         </nav> );
     }

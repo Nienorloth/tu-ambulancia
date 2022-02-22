@@ -3,31 +3,31 @@ export default
        
         name :'Kit del viajero',
         headerTagline: [
-                        'Hi, I am Mariana',
+                        'Aplicación móvil que te conecta con la reglamentación vial local cuando la requieres.',
                        
-                        'Web Developer ',
+                        ' Ideal para viajar ',
                        
                         
     ],
         //Contact Email
-        contactEmail:'nienorloth@gmail.com',
+        contactEmail:'kit.viajero22@gmail.com',
        
-        abouttext: "I live in Guadalajara, Mexico. I work with Javascript, HTML and CSS to create web applications, always looking for excellence. I have some experience with React, Angular and node.js. I am passionate about my work and very commited when it comes to collaborative working. I enjoy reading and spending time outdoors with my family. I have a bachelor's degree in Biology; life and evolution are still a subject of great interest to me. I am looking forward to get involved in new projects and continue learning.",
-        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Mar.jpg?alt=media&token=3b4d265f-6d66-4fec-98df-b6f70983abbb',
+        abouttext: "En Colombia existe la norma de pico y placa, que restringe el tránsito vehicular mediante el número de matrícula, entre otras particularidades de los reglamentos viales en los distintos departamentos, como disposiciones vigentes, equipos obligatorios, velocidades permitidas, etc. El kit del viajero te permitirá contar con la información correspondiente a las distintas localidades, ya sea por adelantado al momento de programar tu viaje o en tiempo real por medio de geo-localización por GPS.",
+        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/kit.png?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/kit.png?alt=media&token=7d9ec2c3-5c88-438d-9ac7-409c272f687c',
        //Show or hide image
        ShowAboutImage:true,
       
        projects:[
            {
             id: 1,
-            title:'League of Legends Champion Archive', 
-             service:'Javascript, HTML, CSS', 
+            title:'Log in', 
+             service:'Captura de datos relevantes', 
            
-             imageSrc:"https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/lol.png?alt=media&token=a3f2cd5b-d581-47b6-918c-f105120db462",
+             imageSrc:"https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit del Viajero 2 - 001. Log in.png?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit%20del%20Viajero%202%20-%20001.%20Log%20in.png?alt=media&token=972d9cc6-3a11-404a-a7d3-328041c43e86",
             
-             url:'https://nienorloth.github.io/GDL003-data-lovers/src/',
-             github: 'https://github.com/Nienorloth/GDL003-data-lovers'
-            },
+           //  url:'https://nienorloth.github.io/GDL003-data-lovers/src/',
+           //  github: 'https://github.com/Nienorloth/GDL003-data-lovers'
+            }/*,
             {
                 id: 2,
                 title: 'Collector´s notebook',
@@ -69,9 +69,9 @@ export default
                 github: 'https://github.com/Nienorloth/GDL003-Burger-Queen-Back-End'
             }
 
-                
+           */     
         ],
-        social: [
+        /*social: [
            
             {   name:'Github',
                 url:'https://github.com/Nienorloth'},
@@ -81,5 +81,5 @@ export default
             }
             
 
-        ]
+        ]*/
     }
