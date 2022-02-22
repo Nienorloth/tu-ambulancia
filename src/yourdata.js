@@ -1,7 +1,7 @@
 export default
     {
        
-        name :'Mariana Rascon Montaño',
+        name :'Kit del viajero',
         headerTagline: [
                         'Hi, I am Mariana',
                        
