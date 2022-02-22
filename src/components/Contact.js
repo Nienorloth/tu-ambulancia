@@ -16,7 +16,7 @@ class Contact extends Component {
         <div className='contact-content'>
                     <a href={`mailto:${data.contactEmail}`} className='email'>{data.contactEmail}</a>
                     <a className="cv"><p>Mándanos un correo si quieres ser de los primeros en probar nuestra versión beta!!</p></a>
-                    <a className="cv"><p></p></a>
+                    <span id="fooBar">&nbsp;</span>
         </div>
         </Fade>
 
