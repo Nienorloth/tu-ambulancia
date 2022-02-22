@@ -15,8 +15,8 @@ class Contact extends Component {
         <Fade bottom>
         <div className='contact-content'>
                     <a href={`mailto:${data.contactEmail}`} className='email'>{data.contactEmail}</a>
-                    <a className="cv"><p>Gracias!</p></a>
-
+                    <a className="cv"><p>Mándanos un correo si quieres ser de los primeros en probar nuestra versión beta!!</p></a>
+                    <a className="cv"><p></p></a>
         </div>
         </Fade>
 
