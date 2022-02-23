@@ -3,29 +3,29 @@ export default
        
         name :'Kit del viajero',
         headerTagline: [
-                        'Aplicación móvil que te conecta con la reglamentación vial local cuando la requieres.',
+                        '¿Quieres viajar tranquilo',
                        
-                        ' Ideal para viajar ',
+                        ' y sin infracciones? Contáctanos!!!',
                        
                         
     ],
         //Contact Email
         contactEmail:'kit.viajero22@gmail.com',
        
-        abouttext: "En Colombia existe la norma de pico y placa, que restringe el tránsito vehicular mediante el número de matrícula, entre otras particularidades de los reglamentos viales en los distintos departamentos, como disposiciones vigentes, equipos obligatorios, velocidades permitidas, etc. El kit del viajero te permitirá contar con la información correspondiente a las distintas localidades, ya sea por adelantado al momento de programar tu viaje o en tiempo real por medio de geo-localización por GPS.",
-        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/kit.png?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/kit.png?alt=media&token=7d9ec2c3-5c88-438d-9ac7-409c272f687c',
+        abouttext: "En Colombia existe la norma de pico y placa, que restringe el tránsito vehicular mediante el número de matrícula, entre otras particularidades de los reglamentos viales en los distintos departamentos, como disposiciones vigentes, equipos obligatorios, velocidades permitidas, etc. El kit del viajero es una aplicación móvil que te permitirá contar con la información correspondiente a las distintas localidades, ya sea por adelantado al momento de programar tu viaje o en tiempo real por medio de geo-localización por GPS.",
+        aboutImage:'https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/istockphoto-1254721353-170667a.jpg?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/istockphoto-1254721353-170667a.jpg?alt=media&token=96f50cc4-48eb-450e-84fa-048e508edfbc',
        //Show or hide image
        ShowAboutImage:true,
       
        projects:[
            {
             id: 1,
-            title:'Log in', 
-             service:'Captura de datos relevantes', 
+            title:'Prueba nuestro prototipo interactivo!!', 
+            // service:'Captura de datos relevantes', 
            
-             imageSrc:"https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit del Viajero 2 - 001. Log in.png?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit%20del%20Viajero%202%20-%20001.%20Log%20in.png?alt=media&token=972d9cc6-3a11-404a-a7d3-328041c43e86",
+             imageSrc:"https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit del Viajero 2 - 002. Home_Inicio.png?alt=media&token=https://firebasestorage.googleapis.com/v0/b/cuaderno-de-colectas.appspot.com/o/Kit%20del%20Viajero%202%20-%20001.%20Log%20in.png?alt=media&token=c3825ee6-4750-4bbf-9d21-88e0bcc1506e",
             
-           //  url:'https://nienorloth.github.io/GDL003-data-lovers/src/',
+             url:'https://invis.io/KA12B7DMG3ZH#/463592629_Kit_Del_Viajero_2_-_001-_Log_In',
            //  github: 'https://github.com/Nienorloth/GDL003-data-lovers'
             }/*,
             {

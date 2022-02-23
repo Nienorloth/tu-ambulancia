@@ -163,8 +163,8 @@ li .link:hover{
   color: white; 
 }
 .project img{
-width: 30em;  
-height: 30em;
+width: 18em;  
+height: 40em;
 filter: grayscale(85%);
 }
 .project img:hover{
@@ -204,10 +204,7 @@ filter: grayscale(85%);
   color:white;
   font-size: 2em;
 }
-.cv:hover,
-.email:hover {
-  color: purple;
-}
+
 .footer{
   position: relative;
   top:2em;

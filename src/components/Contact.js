@@ -10,12 +10,12 @@ class Contact extends Component {
     render() { 
         return (  <div>
         <h1>
-                <Fade bottom cascade>Contact.</Fade>
+                <Fade bottom cascade>Contacto.</Fade>
         </h1>
         <Fade bottom>
         <div className='contact-content'>
                     <a href={`mailto:${data.contactEmail}`} className='email'>{data.contactEmail}</a>
-                    <a className="cv"><p>Mándanos un correo si quieres ser de los primeros en probar nuestra versión beta!!</p></a>
+                    <a className="cv"><p>Mándanos un correo para probar nuestra versión beta!!</p></a>
                     <span id="fooBar">&nbsp;</span>
         </div>
         </Fade>
