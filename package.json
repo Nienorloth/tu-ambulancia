@@ -2,7 +2,7 @@
   "name": "react-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "amazing-colden-5e5fb0.netlify.app",
+  "homepage": "https://nienorloth.github.io/kit-del-viajero/",
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "react": "^16.13.1",
