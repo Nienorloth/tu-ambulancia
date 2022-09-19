@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tu-ambulancia/precache-manifest.8393a541eadcf171863a82fadbed25bd.js"
+  "/tu-ambulancia/precache-manifest.8cfe2c99f981efeadf8b9df63fea7b17.js"
 );
 
 self.addEventListener('message', (event) => {
