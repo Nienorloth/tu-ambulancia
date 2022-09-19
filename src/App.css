@@ -6,7 +6,6 @@ body{
   font-family: 'Open Sans', sans-serif;
   overflow-x: hidden;
   z-index: 1;
-  /*background-image: url("https://firebasestorage.googleapis.com/v0/b/tu-ambulancia-app.appspot.com/o/Tu%20Ambulancia.png?alt=media&token=6356c646-0978-4c77-83bb-faf7d92929fb");*/
   background-size: 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
