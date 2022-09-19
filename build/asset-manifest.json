@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tu-ambulancia/static/css/main.c8480e5f.chunk.css",
+    "main.css": "/tu-ambulancia/static/css/main.8009685e.chunk.css",
     "main.js": "/tu-ambulancia/static/js/main.f4dfaa16.chunk.js",
     "main.js.map": "/tu-ambulancia/static/js/main.f4dfaa16.chunk.js.map",
     "runtime~main.js": "/tu-ambulancia/static/js/runtime~main.2112ba5b.js",
@@ -8,8 +8,8 @@
     "static/js/2.67397f2a.chunk.js": "/tu-ambulancia/static/js/2.67397f2a.chunk.js",
     "static/js/2.67397f2a.chunk.js.map": "/tu-ambulancia/static/js/2.67397f2a.chunk.js.map",
     "index.html": "/tu-ambulancia/index.html",
-    "precache-manifest.fc4a4737ab94a89c8f1c50c3385dcf7f.js": "/tu-ambulancia/precache-manifest.fc4a4737ab94a89c8f1c50c3385dcf7f.js",
+    "precache-manifest.8cfe2c99f981efeadf8b9df63fea7b17.js": "/tu-ambulancia/precache-manifest.8cfe2c99f981efeadf8b9df63fea7b17.js",
     "service-worker.js": "/tu-ambulancia/service-worker.js",
-    "static/css/main.c8480e5f.chunk.css.map": "/tu-ambulancia/static/css/main.c8480e5f.chunk.css.map"
+    "static/css/main.8009685e.chunk.css.map": "/tu-ambulancia/static/css/main.8009685e.chunk.css.map"
   }
 }
