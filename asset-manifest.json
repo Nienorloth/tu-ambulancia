@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/kit-del-viajero/static/css/main.67ad3d76.chunk.css",
-    "main.js": "/kit-del-viajero/static/js/main.79b39b1f.chunk.js",
-    "main.js.map": "/kit-del-viajero/static/js/main.79b39b1f.chunk.js.map",
-    "runtime~main.js": "/kit-del-viajero/static/js/runtime~main.cf5a7b7e.js",
-    "runtime~main.js.map": "/kit-del-viajero/static/js/runtime~main.cf5a7b7e.js.map",
-    "static/js/2.a75e8edd.chunk.js": "/kit-del-viajero/static/js/2.a75e8edd.chunk.js",
-    "static/js/2.a75e8edd.chunk.js.map": "/kit-del-viajero/static/js/2.a75e8edd.chunk.js.map",
-    "index.html": "/kit-del-viajero/index.html",
-    "precache-manifest.6c68e58247f3bb84734b38baa7b75b8e.js": "/kit-del-viajero/precache-manifest.6c68e58247f3bb84734b38baa7b75b8e.js",
-    "service-worker.js": "/kit-del-viajero/service-worker.js",
-    "static/css/main.67ad3d76.chunk.css.map": "/kit-del-viajero/static/css/main.67ad3d76.chunk.css.map",
-    "static/media/App.css": "/kit-del-viajero/static/media/moon2.97ef49de.jpg"
+    "main.css": "/tu-ambulancia/static/css/main.02fede2d.chunk.css",
+    "main.js": "/tu-ambulancia/static/js/main.49f0a6ea.chunk.js",
+    "main.js.map": "/tu-ambulancia/static/js/main.49f0a6ea.chunk.js.map",
+    "runtime~main.js": "/tu-ambulancia/static/js/runtime~main.2112ba5b.js",
+    "runtime~main.js.map": "/tu-ambulancia/static/js/runtime~main.2112ba5b.js.map",
+    "static/js/2.6bcfb3f8.chunk.js": "/tu-ambulancia/static/js/2.6bcfb3f8.chunk.js",
+    "static/js/2.6bcfb3f8.chunk.js.map": "/tu-ambulancia/static/js/2.6bcfb3f8.chunk.js.map",
+    "index.html": "/tu-ambulancia/index.html",
+    "precache-manifest.ca6ec28916d6e0b3a69d671ff56c0065.js": "/tu-ambulancia/precache-manifest.ca6ec28916d6e0b3a69d671ff56c0065.js",
+    "service-worker.js": "/tu-ambulancia/service-worker.js",
+    "static/css/main.02fede2d.chunk.css.map": "/tu-ambulancia/static/css/main.02fede2d.chunk.css.map"
   }
 }
